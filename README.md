@@ -1,6 +1,6 @@
-![My Data Science Journey](banner.png)
-
-<img src="banner.png" width="100%" alt="Columbia QMSS Data Science Profile Banner">
+<p align="center">
+  <img src="banner.png" width="700" alt="Columbia QMSS Data Science Profile Banner">
+</p>
 
 ## Hello!
 
@@ -15,7 +15,7 @@ My time at Columbia has deepened my interest in applying computational methods t
 
 Applying data science techniques to financial markets and social issues. My recent major project focuses on:
 
-**Pricing Market Sentiment**
+### ✨ **Pricing Market Sentiment** ✨
 
 Where I built an interactive dashboard to answer:
 > *Are high-growth technology stocks more sensitive to retail investor sentiment than traditional value stocks?*
@@ -28,12 +28,3 @@ This involved analyzing historical discussion data from Reddit's r/wallstreetbet
 * **Data Science:** Machine Learning, Natural Language Processing (NLP), Data Visualization
 * **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Streamlit
 * **Tools:** Git, PostgreSQL, VS Code
-* **Domain Focus:** Computational Social Science, Sustainability (ESG), Policy Analysis
-
-## How to reach me
-
-* **LinkedIn:** www.linkedin.com/in/ju-ting-s-90a578356
-* **Email:** Sun90218@gmail.com
-
-
-*“Using data to tell stories and solve problems.”*
