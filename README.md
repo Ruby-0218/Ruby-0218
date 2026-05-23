@@ -1,6 +1,6 @@
 ![Header Image](這裡請填寫你的圖片連結)
 
-# Hello!
+## Hello!
 
 I am a Master's Student at the **Columbia University Graduate School of Arts and Sciences** in the **Quantitative Methods in the Social Sciences (QMSS)** Program, following the **Data Science** focus. I am passionate about leveraging data to understand complex social issues and drive impactful decisions. 
 Nice to meet you!
