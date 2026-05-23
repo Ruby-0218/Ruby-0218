@@ -1,4 +1,6 @@
-![Header Image](這裡請填寫你的圖片連結)
+![My Data Science Journey](banner.png)
+
+<img src="banner.png" width="100%" alt="Columbia QMSS Data Science Profile Banner">
 
 ## Hello!
 
