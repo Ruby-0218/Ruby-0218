@@ -20,7 +20,7 @@ Where I built an interactive dashboard to answer:
 
 This involved analyzing historical discussion data from Reddit's r/wallstreetbets, processing large datasets using Pandas, and building a dynamic visualization tool using Streamlit to compare stock returns, volatility, and sentiment polarity.
 
-## I’m currently studying & using...
+## I’m currently studying & using
 
 * **Languages:** Python, SQL, HTML/CSS
 * **Data Science:** Machine Learning, Natural Language Processing (NLP), Data Visualization
@@ -28,10 +28,10 @@ This involved analyzing historical discussion data from Reddit's r/wallstreetbet
 * **Tools:** Git, PostgreSQL, VS Code
 * **Domain Focus:** Computational Social Science, Sustainability (ESG), Policy Analysis
 
-## How to reach me...
+## How to reach me
 
 * **LinkedIn:** www.linkedin.com/in/ju-ting-s-90a578356
 * **Email:** Sun90218@gmail.com
 
----
+
 *“Using data to tell stories and solve problems.”*
