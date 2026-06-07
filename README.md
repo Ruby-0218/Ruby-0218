@@ -10,7 +10,6 @@ I am a Master's Student at the **Columbia University Graduate School of Arts and
 
 My time at Columbia has deepened my interest in applying computational methods to real-world challenges. I am particularly focused on **Natural Language Processing (NLP)**, **Sustainability/ESG analytics**, and **Financial Market trends**. I enjoy building interactive tools that make complex data accessible, blending my background in social sciences with advanced technical engineering.
 
----
 
 ## Featured Data Science Projects
 
@@ -30,7 +29,6 @@ I specialize in building end-to-end data products, from data engineering and mac
 * **Highlights:** Extracted and processed massive historical discussion datasets from Reddit's `r/wallstreetbets` to compare stock returns, volatility, and semantic sentiment polarity.
 * **[Live Dashboard](https://qmss-g5063-final-project-gpjqh8qnnvlb6j24csauf2.streamlit.app/)** 
 
----
 
 ## Skills & Technologies
 
