@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="700" alt="Columbia QMSS Data Science Profile Banner">
-</p>
-
 ## Hello!
 
 I am a Master's Student at the **Columbia University Graduate School of Arts and Sciences** in the **Quantitative Methods in the Social Sciences (QMSS)** Program, following the **Data Science** focus. I am passionate about leveraging data to understand complex social issues and drive actionable business decisions. 
